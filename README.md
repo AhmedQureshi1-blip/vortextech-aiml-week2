@@ -1,4 +1,4 @@
-# vortextech-aiml-week2# vortextech-aiml-week2
+# vortextech-aiml-week2# 
 
 Week 2 submission — Vortex Tech AI & ML Internship Track: **Build a Classification Model**.
 
